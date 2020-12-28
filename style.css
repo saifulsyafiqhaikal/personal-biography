@@ -1,0 +1,70 @@
+body
+    {
+        background-color: lightpink;
+    }
+
+h1
+    {
+        background-color: Cornsilk;
+		font-face: rockwell extra bold; 
+		font-size: 50px; 
+		color: darkblue;
+		font-family: 'Langar', cursive;
+		border: solid;
+		border-color: #3C1874;
+		border-radius: 50px;
+    }
+h2
+    {
+		background-color: white;
+		font-face: algerian;
+		font-size: 50px; 
+		color: indianred;
+		font-family: 'Langar', cursive;
+		text-allign: center;
+		border: solid;
+		border-color: black;
+		border-radius: 50px;
+    }
+
+h3
+	{
+		background-color: white;
+		font-face: algerian;
+		font-size: 50px; 
+		color: indianred;
+		font-family: 'Langar', cursive;
+		text-allign: center;
+		border: solid;
+		border-color: black;
+		border-radius: 50px;
+	}
+
+p
+    {
+		background-color: white;
+		font-size: 30px;	
+		text-align: center; 
+		color: indianred; 
+		font-family: 'Langar', cursive;
+		padding: 15px;              
+    }
+
+
+
+a:link, a:visited
+	{
+		background-color: black;
+		color: gold;
+		text-allign: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 25px;
+		padding: 15px;           
+   	}
+
+a:hover, a:active
+	{
+		background-color: white;
+		color: black;          
+   	}
